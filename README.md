@@ -18,7 +18,7 @@ controlled by a Raspberry Pi and a gesture sensor (touch-free control).
 ## Progress Log
 
 - X Create parts list and wiring plan
--  Build frame + mount mirror
--  Install Raspberry Pi OS + smart mirror software
--  Wire and test gesture sensor
--  Final assembly and cable management
+- O Build frame + mount mirror
+- O Install Raspberry Pi OS + smart mirror software
+- O Wire and test gesture sensor
+- O Final assembly and cable management
