@@ -16,7 +16,7 @@ controlled by a Raspberry Pi and a gesture sensor (touch-free control).
 - Wooden frame + plywood back panel
 
 ## Progress Log
-- [X] Create parts list and wiring plan
+- [x] Create parts list and wiring plan
 - [ ] Build frame + mount mirror
 - [ ] Install Raspberry Pi OS + smart mirror software
 - [ ] Wire and test gesture sensor
